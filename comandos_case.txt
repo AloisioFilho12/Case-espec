@@ -1,2 +1,3 @@
 ls -> lista arquivos
 cd -> move entre diretórios
+pdw -> mostrar repositório
